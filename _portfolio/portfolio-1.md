@@ -18,7 +18,7 @@ collection: portfolio
 
 #### Experiment Results
 
-![BSRNN-based Experiment Results](/images/bsrnn_results.png)
+![BSRNN-based Experiment Results](/images/model.png)
 
 ---
 
