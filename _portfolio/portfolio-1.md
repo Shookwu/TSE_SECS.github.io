@@ -1,8 +1,8 @@
 ---
-title: "TSE-SECS"
+
 
 ---
-<div style="text-align: center;">
+div style="text-align: center;">
   <h1> <strong>TARGET SPEAKER EXTRACTION WITH SPEAKER  SIMILARITY AND CENTROID-BASED OPTIMIZATION</strong></h1>
 </div>
 
