@@ -3,7 +3,7 @@
 
 ---
 <div style="text-align: center;">
-  <h1>Paper Title: <strong>Speech Separation Using BSRNN and DPCCN Models</strong></h1>
+  <h1><strong>Speech Separation Using BSRNN and DPCCN Models</strong></h1>
 </div>
 
 ## Abstract
