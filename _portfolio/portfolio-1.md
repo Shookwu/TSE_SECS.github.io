@@ -12,7 +12,7 @@ This paper presents a comparison between two state-of-the-art models for speech 
 
 ## Model Architecture
 
-![Model Architecture](images/model.png)
+![Model Architecture](../images/model.png)
 
 ### Speech Separation Experiment Display
 
