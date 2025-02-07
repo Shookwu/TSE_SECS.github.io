@@ -2,8 +2,8 @@
 
 
 ---
-div style="text-align: center;">
-  <h1> <strong>TARGET SPEAKER EXTRACTION WITH SPEAKER  SIMILARITY AND CENTROID-BASED OPTIMIZATION</strong></h1>
+<div style="text-align: center;">
+  <h1>Paper Title: <strong>Speech Separation Using BSRNN and DPCCN Models</strong></h1>
 </div>
 
 ## Abstract
