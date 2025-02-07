@@ -1,18 +1,15 @@
----
-title: "Speech Separation Experiment Results"
-excerpt: "Displaying speech separation results before and after separation, with audio examples and experimental data <br/><img src='/images/500x300.png'>"
-collection: portfolio
----
 
-# Paper Title: **Speech Separation Using BSRNN and DPCCN Models**
+<div style="text-align: center;">
+  <h1> <strong>TARGET SPEAKER EXTRACTION WITH SPEAKER  SIMILARITY AND CENTROID-BASED OPTIMIZATION</strong></h1>
+</div>
 
 ## Abstract
 
-This paper presents a comparison between two state-of-the-art models for speech separation: BSRNN (Bidirectional Speech Recurrent Neural Network) and DPCCN (Deep Parallel Convolutional Channel Network). We evaluate the effectiveness of these models on mixed speech data and report experimental results, including the performance of the models on SNR, SDR, ISR, and other relevant metrics. Additionally, we provide audio samples to demonstrate the separation performance before and after applying the models.
+Target Speaker Extraction (TSE) uses a reference cue to extract the target speech from a mixture. In TSE systems relying on audio cues, the speaker embedding from the enrolled speech is crucial for performance, as these embeddings directly affect system success. However, these embeddings may suffer from speaker identity confusion. Unlike previous studies that focus on enhancing the performance of speaker embedding extraction, we address this challenge by proposing a Speaker Encoder Cosine Similarity (SECS) loss, which integrates the speaker centroid. This approach improves the consistency of speaker features between the enrolled and extracted speech by constraining the similarity of their representations. Furthermore, the incorporation of conditional loss suppression into the SECS loss results in comprehensive performance improvements. Experimental results validate the effectiveness of the proposed method in advancing the TSE task. A speech sample is available online.
 
 ## Model Architecture
 
-![Model Architecture](../images/model.png)
+<embed src=" ../images/model.pdf" width="800px" height="600px" type="application/pdf" />
 
 ### Speech Separation Experiment Display
 
